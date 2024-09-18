@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NitinAtwal007
+- 👋 Hello there, I’m @NitinAtwal007
 - 👀 I’m interested in Computer Science Field
 - 🌱 I’m currently learning Advanced Python and Databases
-- 💞️ I’m looking to collaborate on Cyber Security & cryptography
+- 💞️ I’m looking to collaborate on Cyber Security & Algorithms
 - 📫 How to reach me jw233294@gmail.com
+
  
   
 
